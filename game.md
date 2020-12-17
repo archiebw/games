@@ -16,8 +16,8 @@ The First player to gain 7 victory points wins.
 #### Phase 1 - Generate energy
 
 - Roll 5 dice
-- Put aside any 2/3/4/5 of a kind
 - optional reroll of up to 5 dice
+- Put aside any 2/3/4/5 of a kind
 
 Generate energy based on dice rolled:
 
@@ -43,7 +43,7 @@ Generate energy based on dice rolled:
 5: One additional reroll of a single dice which value is 5.  
 6: One additional reroll of a single dice which value is 6.  
 7: For each pair of 7's in your play area, generate 1 energy per turn.  
-8: For each pair of 8'sin your play area, roll an additional dice per a turn.  
+8: For each pair of 8's in your play area, roll an additional dice per a turn.  
 9: Discard a card from the opponents play area.  
 10: Save an energy per a turn for each 10 in your play area.  
 J: No effect while in play area, discard to play a face up card anytime on your turn.  
